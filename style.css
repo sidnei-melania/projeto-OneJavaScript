@@ -1,12 +1,16 @@
 *{
+    
     margin:0;
     padding:0;
     box-sizing: border-box;
+    
 }
+
 
 body{
     background-color: aqua;
 }
+
 
 .main{
     margin:20px auto;
@@ -15,17 +19,20 @@ body{
     padding:30px 2%;
 }
 
+
 .main h2{
     font-size: 45px;
     color:#ef5350;
     text-align: center;
 }
 
+
 .pokemon-boxes{
     margin:20px 0;
     display: flex;
     flex-wrap: wrap;
 }
+
 
 .pokemon-box{
    
